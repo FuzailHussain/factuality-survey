@@ -2,7 +2,7 @@
 
 This is an **ongoing collection of research papers** related to **factuality in Large Language Models (LLMs)**.
 
-📌 For brevity, individual papers from **before 2025** are not listed. Instead, we include two comprehensive survey papers covering those years. The list then focuses on **individual 2025 papers** that introduce new contributions beyond what these surveys cover.
+📌 For brevity, individual papers **before 2025** are not listed. Instead, we include two comprehensive survey papers covering those years. The list then focuses on **individual 2025 papers** that introduce new contributions beyond what these surveys cover.
 
 ---
 
